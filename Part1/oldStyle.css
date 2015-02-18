@@ -1,0 +1,22 @@
+
+/*More old looking background color*/
+body {background:moccasin}
+
+/*applied a more "tan" font color*/
+p {
+    font-size: 150%;
+    color: saddlebrown;
+    font-family: "Times New Roman",serif; 
+}
+
+/*found a handwritten looking font for headers*/
+H1,H2,H3,H4,H5,H6 { text-align: center; margin-left: 15%; margin-right: 15%; font-family: Brush Script MT; font-size: 200%; }
+
+/*gave a yellowey border to images*/
+img { border: 2px solid; border-width:10px ; border-color:gold; border-style: outset;}
+
+/*This css was kept and modifyed from the original to keep the images aligned*/
+div.fig    { display:block; margin:0 auto; text-align:center;}
+div.middle { margin-left: 20%; margin-right: 20%; text-align: justify;}
+.figleft   {float: left; margin-left: 0%; margin-right: 5%;}
+.figright  {float: right; margin-right:0%; margin-left: 5%;}
