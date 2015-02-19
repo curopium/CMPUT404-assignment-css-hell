@@ -10,7 +10,7 @@ p {
 }
 
 /*found a handwritten looking font for headers*/
-H1,H2,H3,H4,H5,H6 { text-align: center; margin-left: 15%; margin-right: 15%; font-family: Brush Script MT; font-size: 200%; }
+H1,H2,H3,H4,H5,H6 { text-align: center; margin-left: 15%; margin-right: 15%; font-family: "Times New Roman", Times, serif;font-style:italic; font-size: 200%; }
 
 /*gave a yellowey border to images*/
 img { border: 2px solid; border-width:10px ; border-color:gold; border-style: outset;}
